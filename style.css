@@ -28,11 +28,21 @@ br {
     align-items: center;
 }
 
-form input, form textarea{
+form input,
+form textarea {
     width: 300px;
     margin: 10px 0;
 }
 
 header {
     padding: 15px;
+}
+
+.btn {
+    height: 100%;
+    width: 200px;
+}
+
+.pesquisa {
+    align-items: center;
 }
